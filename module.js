@@ -39,6 +39,7 @@ const UI = (() => {
     };
   })();
   
+  
   // Product module for gathering product related info
   const Product = (() => {
     const name = "DisCatcher Target";
